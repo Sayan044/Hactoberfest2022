@@ -1,7 +1,7 @@
 table.cal{
 	border:1px solid black;
-	padding: 20px;
-	margin:5px;
+	padding: 35px;
+	margin:6px;
 	background:hotpink;
 }
 tr:nth-child(odd){
